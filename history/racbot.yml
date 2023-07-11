@@ -1,7 +1,7 @@
 url: https://racbot.bohaska.repl.co/
-status: up
-code: 200
-responseTime: 474
-lastUpdated: 2023-07-10T23:18:49.944Z
+status: down
+code: 500
+responseTime: 12763
+lastUpdated: 2023-07-11T17:10:49.026Z
 startTime: Sat Jun 10 2023 00:26:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
